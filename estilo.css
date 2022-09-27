@@ -1,0 +1,32 @@
+body { background : #670001 }
+a:link { color: #ddbb77; background: transparent }
+a:visited { color: #bb9944; background: transparent }
+.centralizado {
+ text-align: center;
+ text-indent: 0;
+ color: #DDBB77;
+}
+
+.info {
+ font-size: 10pt;
+ font-weight: normal;
+ font-family: Arial, Times, sans-serif;
+ text-indent: 0;
+ margin-top: 0pt;
+ margin-bottom: 10pt;
+ line-height: normal;
+ text-align:center;
+ color: #DDBB77;
+  
+}
+
+table, td, th, thead{ 
+    font-size: medium;
+    border: 3px solid rgb(255, 247, 247);
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+p{color: aliceblue;}
+    
